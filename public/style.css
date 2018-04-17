@@ -1,0 +1,32 @@
+header {
+  text-align: center;
+  background-image: url("https://0bba85283010b328c484-f139c7401b3658260f434c192b129add.ssl.cf3.rackcdn.com/papalui.co.uk/manage/manage_uploads/upload/phpAWnczX.png");
+  background-size: cover;
+  background-position: center;
+  border: 3px solid white;
+  height: 70px;
+  width: 100%;
+}
+
+body {
+  background-color: LIGHTSLATEGREY;
+  font-family: Georgia;
+  font-size: 35px;
+  color: WHITESMOKE;
+  text-align: center;
+  margin: 0 auto;
+}
+
+p {
+  color: #333;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 30px;
+}
+
+ul {
+font-family: 'Varela Round', sans-serif;
+margin: 30px auto;
+padding: 0 20px;
+list-style-type: none;
+text-align: center;
+}
